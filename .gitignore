@@ -1,0 +1,6 @@
+# Ignore output files
+sql.db
+geckodriver.log
+__pycache__/*
+
+
